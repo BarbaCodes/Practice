@@ -1,0 +1,6 @@
+### Executáveis ###
+*.class
+*.exe
+
+### configs ###
+.vscode
