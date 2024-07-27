@@ -1,7 +1,6 @@
 
 ### Diretório para a Prática da Linguagem de Programação C++
 
-```markdown
 # Diretório de Prática da Linguagem de Programação C++
 
 ## Introdução
